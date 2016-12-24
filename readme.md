@@ -7,7 +7,7 @@
 - Less
 - Stylus
 - EJS
-- Jade
+- Jade/Pug
 - Markdown
 - Coffeescript
 - Typescript
