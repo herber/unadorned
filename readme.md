@@ -13,15 +13,6 @@
 - Typescript
 
 ## Usage
-### CLI
-```bash
-npm install -g unadorned
-```
-Navigate to you project folder
-```
-unadorned
-```
-The compiled files are in ```/out```.
 ### API
 ```javascript
 const unadorned = require('unadorned');
