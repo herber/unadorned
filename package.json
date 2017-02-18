@@ -6,9 +6,6 @@
   "scripts": {
     "test": "node ./test.js"
   },
-  "bin": {
-    "unadorned": "./bin/app.js"
-  },
   "repository": {
     "type": "git",
     "url": "slateshq/unadorned"
