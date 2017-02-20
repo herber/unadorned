@@ -2,7 +2,7 @@
 
 > The simple preprocessor
 
-## What can it compile
+## Compiles
 - Sass
 - Less
 - Stylus
