@@ -26,6 +26,6 @@ unadorned.dir(__dirname, __dirname + '/compiled', function (err, files) {
 });
 ```
 
-## Licence
+## License
 MIT
 
